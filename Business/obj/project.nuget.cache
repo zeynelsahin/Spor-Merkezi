@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UT/y0LrZz1SQ4lftDOOpPbwZacpbFjpeZ+a1hWb0gGV3+DqX+1oPNPiX4pViY+Q3CCVFwYqNP7+rPt6+DLijJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zynls\\RiderProjects\\Spor Merkezi\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zynls\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\zynls\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",
+    "C:\\Users\\zynls\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.4.0\\fluentvalidation.dependencyinjectionextensions.10.4.0.nupkg.sha512",
+    "C:\\Users\\zynls\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
